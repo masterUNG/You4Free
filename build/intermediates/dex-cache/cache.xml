@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/masterung/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.5.2_3ec3e7b5de4f5e0b969632c416360ab0ed6d6440/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8e8b47fba37db2a00b6fbe8c501ae58c37cd12c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/universal-image-loader-1.9.5/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_84920403eb8789774a9bcd4804a7d4029ffc9859.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a52e15c28067050184a2f7edc285b4a700eb306f">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0f858476d30ed63ae9b796bad3869ec410d0a7ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masterung/SDK/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_fe8f61334ad5a9ebc27312fc9d266bc443d84f02/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterung/SDK/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_fe8f61334ad5a9ebc27312fc9d266bc443d84f02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterung/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/pre-dexed/debug/glide-3.5.2_3ec3e7b5de4f5e0b969632c416360ab0ed6d6440.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/bundles/default/libs/picasso-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f2e6b6da46083dab659c8825417161a2a90cbee">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/transforms/dex/debug/folders/1000/8/picasso-2.3.3_b10466a4c67d46a4b9294e70e3e14d03712de4fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c5f76e7a6252220ceccb1c5b63d664ba52b078b">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/pre-dexed/debug/classes_f9d915449998db4cbb601456e0be5262826a4b4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/bundles/default/libs/NineOldAndroid-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/pre-dexed/debug/NineOldAndroid-2.4.0_1bd4e8eda0b5d8b95f5f959842e9d0c1505efd53.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/bundles/default/libs/NineOldAndroid-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f086e018e187da53a1432c188023c86d1fa3ff73">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/transforms/dex/debug/folders/1000/8/NineOldAndroid-2.4.0_1bd4e8eda0b5d8b95f5f959842e9d0c1505efd53/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/bundles/default/libs/picasso-2.3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4f2e6b6da46083dab659c8825417161a2a90cbee">
+        <dex dex="/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/pre-dexed/debug/picasso-2.3.3_b10466a4c67d46a4b9294e70e3e14d03712de4fd.jar" />
+    </item>
+
+</items>
