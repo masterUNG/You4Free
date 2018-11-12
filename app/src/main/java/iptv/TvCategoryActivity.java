@@ -156,7 +156,7 @@ public class TvCategoryActivity extends Activity {
 						link = arrData.get(position).getTv_link();
 
 //						ทดสอบนะจ้ะ
-						link = "http://103.76.181.238:8081/live2/bein_Y/playlist.m3u8?channel_id=1465";
+//						link = "http://103.76.181.238:8081/live2/bein_Y/playlist.m3u8?channel_id=1465";
 
 						Log.d("12novV2", "link ==> " + link);
 

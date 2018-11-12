@@ -404,42 +404,36 @@ public class MainActivity extends FragmentActivity {
             @Override
             public void onClick(View view) {
 
-                if (true) {
-                    intent = new Intent(MainActivity.this, IpTvActivity.class);
-                    intent.putExtra("id", "2");
-                    startActivity(intent);
+                intent = new Intent(MainActivity.this, IpTvActivity.class);
+                intent.putExtra("id", "2");
+                startActivity(intent);
 
-                    // TODO Auto-generated method stub
-                    try {
-                        if (playerInstalledOrNot("com.mxtech.videoplayer.pro")) {
+                // TODO Auto-generated method stub
+                try {
+                    if (playerInstalledOrNot("com.mxtech.videoplayer.pro")) {
 
-                            Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
 
-                        } else if (playerInstalledOrNot("com.mxtech.videoplayer.ad")) {
+                    } else if (playerInstalledOrNot("com.mxtech.videoplayer.ad")) {
 
-                            Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
 
-                        } else if (playerInstalledOrNot("com.mxtech.videoplayer.gold")) {
+                    } else if (playerInstalledOrNot("com.mxtech.videoplayer.gold")) {
 
-                        } else if (playerInstalledOrNot("com.android.gallery3d")) {
+                    } else if (playerInstalledOrNot("com.android.gallery3d")) {
 
 
-                        } else {
-                            installgold atualizaApp = new installgold();
-                            atualizaApp.setContext(getApplicationContext());
-                            atualizaApp.execute("MXPlayer.apk");
-                            Toast.makeText(getApplicationContext(), "กรุณารอสักครู่ และกด  >> ติดตั้ง <<  ..........", Toast.LENGTH_SHORT).show();
-                            Intent intent = new Intent(MainActivity.this, Mxplayer.class);
-                            startActivity(intent);
-                        }
-                    } catch (Exception e) {
-                        // TODO Auto-generated catch block
-                        e.printStackTrace();
+                    } else {
+                        installgold atualizaApp = new installgold();
+                        atualizaApp.setContext(getApplicationContext());
+                        atualizaApp.execute("MXPlayer.apk");
+                        Toast.makeText(getApplicationContext(), "กรุณารอสักครู่ และกด  >> ติดตั้ง <<  ..........", Toast.LENGTH_SHORT).show();
+                        Intent intent = new Intent(MainActivity.this, Mxplayer.class);
+                        startActivity(intent);
                     }
-
-                } else {
-                    startActivity(new Intent(MainActivity.this, LoginActivity.class));
-
+                } catch (Exception e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
                 }
 
             }   // onClick
