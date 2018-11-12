@@ -3,6 +3,7 @@ package helper;
 public class UrlApp {
 
     public static final String API = "http://4k.bear-tv.com/api/";
+    public static final String API2 = "http://2654k.com/api/";
     //token
     public static final String CHECK_TOKEN = "http://pataya.bear-tv.com/api/token_check/";
     //user
@@ -23,8 +24,8 @@ public class UrlApp {
     public static final String SEASON_Series = API + "series_season";
     public static final String Series = API + "series";
     //tv
-    public static final String MAIN_TV = API + "iptv_main_category";
-    public static final String CATEGORY_TV = API + "iptv_sub_category";
+    public static final String MAIN_TV = API2 + "iptv_main_category";
+    public static final String CATEGORY_TV = API2 + "iptv_sub_category";
     //search
     public static final String SEARCH = API + "findmovie";
     //search

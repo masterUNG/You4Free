@@ -1,6 +1,7 @@
 package iptv;
 
 import android.content.Context;
+import android.util.Log;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -148,10 +149,15 @@ public class IpTvData {
 			for (int i = 0; i < jArrData.length(); i++) {
 				JSONObject jData = jArrData.getJSONObject(i);
 				tv_id = jData.getString("id");
+
+				Log.d("12novV1", "id_tv at IpTvData ==> " + tv_id);
+
 				tv_name = jData.getString("name");
 				tv_img = jData.getString("logo");
 				tv_color = "";
 				tv_link = jData.getString("link");
+
+				Log.d("12novV1", "tv_link ==> " + tv_link);
 				
 				arrDataTvList.add(new IpTvData(tv_id, tv_name, tv_img,tv_color,tv_link));
 			}

@@ -72,6 +72,9 @@ public class HowtoActivity extends Activity {
 
 		main_id = getIntent().getStringExtra("main_id");
 		id_tv = getIntent().getStringExtra("id");
+
+		Log.d("12novV1", "id_tv at Howto ==> " + id_tv);
+
 		if (main_id != null) {
 			loadData(main_id);
 		} else {

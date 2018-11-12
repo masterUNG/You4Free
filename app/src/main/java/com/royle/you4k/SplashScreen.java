@@ -52,10 +52,6 @@ public class SplashScreen extends Activity {
             //Internet available. Do what's required when internet is available.
 
 
-
-
-
-
         appSettings = getSharedPreferences(appname, MODE_PRIVATE);
         // Make sure you only run addShortcut() once, not to create duplicate shortcuts.
         if(!appSettings.getBoolean("shortcut", false)) {

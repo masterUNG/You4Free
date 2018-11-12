@@ -48,6 +48,8 @@ public class IpTvActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.iptv_activity_ip_tv);
+
+		Log.d("12novV1", "IpTvActivity Work");
 		
 
 		txtUsername = (TextView) findViewById(R.id.txtUsername_iptv);

@@ -67,6 +67,8 @@ public class TvCategoryActivity extends Activity {
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.iptv_activity_tv_category);
 
+
+
 		progressDialog = new ProgressDialog(this);
 		dataStore = new DataStore(getBaseContext());
 
@@ -118,6 +120,9 @@ public class TvCategoryActivity extends Activity {
 	}
 
 	public void showContent() {
+
+		Log.d("12novV1", "TvCat work");
+
 		txtSlide.setText(Html.fromHtml(dataStore.LoadSharedPreference(DataStore.TEXT_SLIDE, "")));
 		gridView = (GridView) findViewById(R.id.gridView_tvCat);
 		gridView.setFocusable(true);
@@ -132,14 +137,29 @@ public class TvCategoryActivity extends Activity {
 			@Override
 			public void onItemClick(AdapterView<?> parent, View view,
 					int position, long id) {
+
+				Log.d("12novV2", "position ==> " + position);
+
 				if (main_id != null) {
 					intent = new Intent(TvCategoryActivity.this,
 							TvCategoryActivity.class);
 					intent.putExtra("id", arrData.get(position).getTv_id());
+
+					Log.d("12novV2", "id ที่คลิก ==> " + arrData.get(position).getTv_id());
+
 					startActivity(intent);
 				} else {
+
+					Log.d("12novV2", "main_id ==> null");
+
 					if (true) {
 						link = arrData.get(position).getTv_link();
+
+//						ทดสอบนะจ้ะ
+						link = "http://103.76.181.238:8081/live2/bein_Y/playlist.m3u8?channel_id=1465";
+
+						Log.d("12novV2", "link ==> " + link);
+
 						checkAcees(dataStore.LoadSharedPreference(
 								DataStore.USER_ID, ""));
 					} else {
@@ -147,8 +167,8 @@ public class TvCategoryActivity extends Activity {
 								LoginActivity.class);
 						startActivity(intent);
 					}
-				}
-			}
+				}	// if
+			}	// onClick
 		});
 	}
 
