@@ -10,12 +10,12 @@ android {
             storePassword '555555'
         }
     }
-    compileSdkVersion 19
-    buildToolsVersion '25.0.0'
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
     defaultConfig {
         applicationId "com.you4k.tv"
         minSdkVersion 15
-        targetSdkVersion 19
+        targetSdkVersion 28
         versionCode 4
         versionName '4.0'
         signingConfig signingConfigs.you4k
@@ -37,8 +37,8 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_7
-        targetCompatibility JavaVersion.VERSION_1_7
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
     }
     productFlavors {
 
@@ -46,8 +46,8 @@ android {
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'com.github.bumptech.glide:glide:3.5.2'
-    compile 'com.android.support:support-v4:19.0.0'
-    compile project(':librarySlider')
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.github.bumptech.glide:glide:3.5.2'
+    implementation project(':librarySlider')
+    implementation 'com.android.support:support-v4:28.0.0'
 }
