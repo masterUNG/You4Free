@@ -97,7 +97,7 @@ public class IpTvNewData {
     }
 
     public ArrayList<IpTvNewData> getMain() {
-        String resultData = portalServices.makePortalCall(null, UrlApp.MAIN_TV, PortalServices.GET);
+        String resultData = portalServices.makePortalCall(null, UrlApp.MAIN_TV_NEW, PortalServices.GET);
         try {
             String decrypted = new String(mcrypt.decrypt(resultData));
             JSONObject jsonObject = new JSONObject(decrypted);
@@ -120,7 +120,7 @@ public class IpTvNewData {
     }
 
     public ArrayList<IpTvNewData> getCategory(String main_id) {
-        String resultData = portalServices.makePortalCall(null, UrlApp.CATEGORY_TV + "?main_id=" + main_id, PortalServices.GET);
+        String resultData = portalServices.makePortalCall(null, UrlApp.CATEGORY_TV_NEW + "?main_id=" + main_id, PortalServices.GET);
         try {
             String decrypted = new String(mcrypt.decrypt(resultData));
             JSONObject jsonObject = new JSONObject(decrypted);
@@ -167,7 +167,7 @@ public class IpTvNewData {
 
 
     public ArrayList<IpTvNewData> getList(String id) {
-        String resultData = portalServices.makePortalCall(null, UrlApp.CATEGORY_TV + "?id=" + id, PortalServices.GET);
+        String resultData = portalServices.makePortalCall(null, UrlApp.CATEGORY_TV_NEW + "?id=" + id, PortalServices.GET);
         try {
             String decrypted = new String(mcrypt.decrypt(resultData));
             JSONObject jsonObject = new JSONObject(decrypted);

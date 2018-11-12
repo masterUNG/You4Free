@@ -55,7 +55,7 @@ public class TvCategoryNewActivity extends Activity {
 
     private ProgressDialog progressDialog;
 
-    private ArrayList<IpTvData> arrData = new ArrayList<IpTvData>();
+    private ArrayList<IpTvNewData> arrData = new ArrayList<IpTvNewData>();
     private String main_id;
     private String id_tv;
 
@@ -130,8 +130,9 @@ public class TvCategoryNewActivity extends Activity {
         gridView.setFocusable(true);
         gridView.setFocusableInTouchMode(true);
         gridView.requestFocus();
-        IpTvCategoryAdapter adapter = new IpTvCategoryAdapter(getBaseContext(),
-                R.layout.movie_row, arrData);
+
+        IpTvCategoryNewAdapter adapter = new IpTvCategoryNewAdapter(getBaseContext(), R.layout.movie_row, arrData);
+
         gridView.setAdapter(adapter);
         gridView.setOnItemClickListener(new OnItemClickListener() {
             Intent intent;
@@ -158,7 +159,7 @@ public class TvCategoryNewActivity extends Activity {
                         link = arrData.get(position).getTv_link();
 
 //						ทดสอบนะจ้ะ
-//						link = "http://103.76.181.238:8081/live2/bein_Y/playlist.m3u8?channel_id=1465";
+						link = "http://103.76.181.238:8081/live2/bein_Y/playlist.m3u8?channel_id=1465";
 
                         Log.d("12novV2", "link ==> " + link);
 
@@ -189,7 +190,7 @@ public class TvCategoryNewActivity extends Activity {
 
         @Override
         protected Void doInBackground(String... params) {
-            IpTvData data = new IpTvData(getBaseContext());
+            IpTvNewData data = new IpTvNewData(getBaseContext());
 
             if (main_id != null) {
                 arrData = data.getCategory(params[0]);

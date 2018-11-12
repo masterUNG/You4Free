@@ -34,8 +34,7 @@ public class IpTvCategoryAdapter extends ArrayAdapter<IpTvData> {
 		private TextView txtName;
 	}
 
-	public IpTvCategoryAdapter(Context context, int resource,
-			ArrayList<IpTvData> arrData) {
+	public IpTvCategoryAdapter(Context context, int resource, ArrayList<IpTvData> arrData) {
 		super(context, resource, arrData);
 		this.context = context;
 		this.arrData = arrData;
