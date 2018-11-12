@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 19
     buildToolsVersion '28.0.3'
 
     defaultConfig {
@@ -20,8 +20,8 @@ android {
 }
 
 dependencies {
-    implementation files('libs/NineOldAndroid-2.4.0.jar')
-    implementation files('libs/picasso-2.3.3.jar')
-    implementation project(':universal-image-loader-1.9.5')
-    implementation 'com.android.support:support-v4:28.0.0'
+    compile files('libs/NineOldAndroid-2.4.0.jar')
+    compile files('libs/picasso-2.3.3.jar')
+    compile project(':universal-image-loader-1.9.5')
+    compile 'com.android.support:support-v4:19.0.0'
 }
