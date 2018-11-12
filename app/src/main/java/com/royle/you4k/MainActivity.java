@@ -60,6 +60,7 @@ import java.util.List;
 import helper.DataStore;
 import helper.PortalServices;
 import iptv.IpTvActivity;
+import iptvnew.IpTvNewActivity;
 import movie.MovieActivity;
 import movie.MovieData;
 import movie.MovieDetailActivity;
@@ -404,7 +405,7 @@ public class MainActivity extends FragmentActivity {
             @Override
             public void onClick(View view) {
 
-                intent = new Intent(MainActivity.this, IpTvActivity.class);
+                intent = new Intent(MainActivity.this, IpTvNewActivity.class);
                 intent.putExtra("id", "2");
                 startActivity(intent);
 
