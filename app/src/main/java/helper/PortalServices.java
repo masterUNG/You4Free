@@ -39,13 +39,15 @@ public class PortalServices {
 	}
 	public String makePortalCall(String token, String url, int method)
 	{
-		Log.i("URL : ", url);
+		Log.i("22decV2", "Show url ==>>>" + url);
 		return this.makePortalCall(token, url, method, null);
 	}
 	public String makePortalCall(String token, String url, int method, List<NameValuePair> params)
 	{
 		Log.i("URL : ", url);
 		Log.d("URL : ", url);
+
+		Log.d("22decV3", "url in makePortalCall ==> " + url);
 
 
 
@@ -65,6 +67,7 @@ public class PortalServices {
 					httpPost.setEntity(new UrlEncodedFormEntity(params,ENCODE_FORMAT));
 					}
 				httpResponse = httpClient.execute(httpPost);
+				Log.d("22decV3", "httpResponse ==>>>> " + httpResponse.toString());
 			}
 			else if(method == GET)
 			{

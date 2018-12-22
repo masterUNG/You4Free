@@ -167,9 +167,15 @@ public class IpTvNewData {
 
 
     public ArrayList<IpTvNewData> getList(String id) {
+
         String resultData = portalServices.makePortalCall(null, UrlApp.CATEGORY_TV_NEW + "?id=" + id, PortalServices.GET);
+
+        Log.d("22decV2", "resultData ==> " + resultData);
         try {
             String decrypted = new String(mcrypt.decrypt(resultData));
+
+            Log.d("22decV2", "decrypted ==> " + decrypted);
+
             JSONObject jsonObject = new JSONObject(decrypted);
             JSONArray jArrData = jsonObject.getJSONArray("data");
             for (int i = 0; i < jArrData.length(); i++) {
@@ -183,7 +189,8 @@ public class IpTvNewData {
                 tv_color = "";
                 tv_link = jData.getString("link");
 
-                Log.d("12novV1", "tv_link ==> " + tv_link);
+
+                Log.d("22decV2", "tv_link ==> " + tv_link);
 
                 arrDataTvList.add(new IpTvNewData(tv_id, tv_name, tv_img, tv_color, tv_link));
             }

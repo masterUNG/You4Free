@@ -169,23 +169,6 @@ public class TvCategoryNewActivity extends Activity {
 
                         link = findAPI(Integer.parseInt(strings1[1]));
 
-                        /*switch (Integer.parseInt(strings1[1])) {
-
-                            case 1464:
-                                link = "http://163.44.197.129:8081/live/hd1/playlist.m3u8?" + strings[1];
-                                break;
-                            case 1465:
-                                link = "http://163.44.197.129:8081/live/hd2/playlist.m3u8?" + strings[1];
-                                break;
-                            case 1466:
-                                link = "http://163.44.197.129:8081/live/hd3/playlist.m3u8?" + strings[1];
-                                break;
-                            case 1467:
-                                link = "http://163.44.197.129:8081/live/hd4/playlist.m3u8?" + strings[1];
-                                break;
-
-                        }*/
-
 //						ทดสอบนะจ้ะ
 
 
@@ -243,6 +226,9 @@ public class TvCategoryNewActivity extends Activity {
         @Override
         protected void onPostExecute(Void result) {
             super.onPostExecute(result);
+
+            Log.d("22decV2", "arrData ==> " + arrData.toString());
+
             progressDialog.dismiss();
             showContent();
         }
