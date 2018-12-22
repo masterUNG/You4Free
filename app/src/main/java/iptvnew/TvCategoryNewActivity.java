@@ -111,8 +111,8 @@ public class TvCategoryNewActivity extends Activity {
         if (true) {
             txtUsername.setVisibility(View.VISIBLE);
             txtExpire.setVisibility(View.VISIBLE);
-            txtUsername.setText(": "+ dataStore.LoadSharedPreference(DataStore.USER_NAME, ""));
-            txtLevel.setText(": "+ dataStore.LoadSharedPreference(DataStore.USER_LEVEL, ""));
+            txtUsername.setText(": " + dataStore.LoadSharedPreference(DataStore.USER_NAME, ""));
+            txtLevel.setText(": " + dataStore.LoadSharedPreference(DataStore.USER_LEVEL, ""));
             txtExpire.setText("หมดอายุ : " + dataStore.LoadSharedPreference(DataStore.USER_EXPIRE, ""));
         } else {
             txtUsername.setVisibility(View.GONE);
@@ -164,8 +164,30 @@ public class TvCategoryNewActivity extends Activity {
                         Log.d("12novV2", "link เก่าที่โค้ดเจนให้ ==> " + link);
                         Log.d("12novV2", "ส่วนหลังที่ได้ ==> " + strings[1]);
 
+                        String[] strings1 = strings[1].split("\\=");
+                        Log.d("12novV2", "id ==> " + strings1[1]);
+
+                        link = findAPI(Integer.parseInt(strings1[1]));
+
+                        /*switch (Integer.parseInt(strings1[1])) {
+
+                            case 1464:
+                                link = "http://163.44.197.129:8081/live/hd1/playlist.m3u8?" + strings[1];
+                                break;
+                            case 1465:
+                                link = "http://163.44.197.129:8081/live/hd2/playlist.m3u8?" + strings[1];
+                                break;
+                            case 1466:
+                                link = "http://163.44.197.129:8081/live/hd3/playlist.m3u8?" + strings[1];
+                                break;
+                            case 1467:
+                                link = "http://163.44.197.129:8081/live/hd4/playlist.m3u8?" + strings[1];
+                                break;
+
+                        }*/
+
 //						ทดสอบนะจ้ะ
-						link = "http://163.44.197.129:8081/live/hd1/playlist.m3u8?" + strings[1];
+
 
                         Log.d("12novV2", "link ==> " + link);
 
@@ -176,9 +198,21 @@ public class TvCategoryNewActivity extends Activity {
                                 LoginActivity.class);
                         startActivity(intent);
                     }
-                }	// if
-            }	// onClick
+                }    // if
+            }    // onClick
         });
+    }
+
+    private String findAPI(int id) {
+
+        String firstString = "http://163.44.197.129:8081/live/";
+        String secondString = "hd1";
+        String thirdString = "/playlist.m3u8?channel_id=" + Integer.toString(id);
+
+        int i = id - 1463;
+        secondString = "hd" + Integer.toString(i);
+
+        return firstString + secondString + thirdString;
     }
 
     public void loadData(String main_id) {
@@ -234,7 +268,7 @@ public class TvCategoryNewActivity extends Activity {
             PortalServices portalServices = new PortalServices();
             String otpData = portalServices.makePortalCall(null, UrlApp.OTP, PortalServices.GET);
             String resultData = portalServices.makePortalCall(null,
-                    UrlApp.CHECK_EXPIRED + params[0]+"/"+dataStore.LoadSharedPreference(DataStore.USER_TOKEN, ""), PortalServices.GET);
+                    UrlApp.CHECK_EXPIRED + params[0] + "/" + dataStore.LoadSharedPreference(DataStore.USER_TOKEN, ""), PortalServices.GET);
 
             //direct
             String lastResultData = "13e6b0014d8cb6acc72edc8f2cbd8aa786a66a84d86d774ee5a90f5dbfc50f0f";
@@ -245,7 +279,6 @@ public class TvCategoryNewActivity extends Activity {
 //direct
 
 
-
             try {
                 String decrypted = new String(mcrypt.decrypt(resultData));
                 JSONObject jsonObject = new JSONObject(decrypted);
@@ -253,7 +286,7 @@ public class TvCategoryNewActivity extends Activity {
                 String decrypted2 = new String(mcrypt.decrypt(otpData));
                 JSONObject jsonObject2 = new JSONObject(decrypted2);
                 String getotp = jsonObject2.getString("otp");
-                otpfn = MCrypt.bytesToHex( mcrypt.encrypt(getotp));
+                otpfn = MCrypt.bytesToHex(mcrypt.encrypt(getotp));
 
                 if (jsonObject.has("status")) {
                     String status = jsonObject.getString("status");
@@ -271,7 +304,6 @@ public class TvCategoryNewActivity extends Activity {
             }
             return null;
         }
-
 
 
         @Override
@@ -357,7 +389,7 @@ public class TvCategoryNewActivity extends Activity {
                 }
 
 
-            }else {
+            } else {
                 Intent intent = new Intent(TvCategoryNewActivity.this, ErrorActivity.class);
                 startActivity(intent);
                 Toast.makeText(getApplicationContext(), "การเชื่อมต่อ Internet ของท่านไม่เสถียร กรุณาลองใหม่อีกครั้งในภายหลัง", Toast.LENGTH_LONG).show();
@@ -419,7 +451,6 @@ public class TvCategoryNewActivity extends Activity {
                     context.startActivity(intent);
 
 
-
 //					try
 //					{
 //						Runtime.getRuntime().exec(new String[]{"su", "-c", "pm install -r /mnt/sdcard/Download/" + nameapp});
@@ -442,7 +473,6 @@ public class TvCategoryNewActivity extends Activity {
 
 
     }
-
 
 
 }
