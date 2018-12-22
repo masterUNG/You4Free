@@ -158,8 +158,14 @@ public class TvCategoryNewActivity extends Activity {
                     if (true) {
                         link = arrData.get(position).getTv_link();
 
+                        String oldLink = link;
+                        String[] strings = oldLink.split("\\?");
+
+                        Log.d("12novV2", "link เก่าที่โค้ดเจนให้ ==> " + link);
+                        Log.d("12novV2", "ส่วนหลังที่ได้ ==> " + strings[1]);
+
 //						ทดสอบนะจ้ะ
-						link = "http://103.76.181.238:8081/live2/bein_Y/playlist.m3u8?channel_id=1465";
+						link = "http://163.44.197.129:8081/live/hd1/playlist.m3u8?" + strings[1];
 
                         Log.d("12novV2", "link ==> " + link);
 
