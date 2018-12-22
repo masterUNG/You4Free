@@ -190,7 +190,22 @@ public class IpTvNewData {
                 tv_link = jData.getString("link");
 
 
-                Log.d("22decV2", "tv_link ==> " + tv_link);
+                Log.d("22decV3", "tv_link ==> " + tv_link);
+
+                String[] strings = tv_link.split("\\=");
+
+                String firstString = "http://163.44.197.129:8081/live/hd1/playlist.m3u8?channel_id=";
+
+//                YutConstant yutConstant = new YutConstant();
+//                FindUrlThread findUrlThread = new FindUrlThread(context);
+//                findUrlThread.execute("1465", yutConstant.getYutServerString());
+
+//                String jsonString = findUrlThread.get();
+//                Log.d("22Decv4", "jsonString ==>>> " + jsonString);
+
+                tv_link = firstString + strings[1];
+
+                Log.d("22decV3", "tv_link ใหม่่ ==> " + tv_link);
 
                 arrDataTvList.add(new IpTvNewData(tv_id, tv_name, tv_img, tv_color, tv_link));
             }

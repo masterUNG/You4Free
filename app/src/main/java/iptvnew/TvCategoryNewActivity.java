@@ -25,6 +25,7 @@ import com.royle.you4k.Mxplayer;
 import com.royle.you4k.R;
 import com.royle.you4k.SearchActivity;
 
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.File;
@@ -156,26 +157,38 @@ public class TvCategoryNewActivity extends Activity {
                     Log.d("12novV2", "main_id ==> null");
 
                     if (true) {
+
+                        ///ตรงนี่แหละ
                         link = arrData.get(position).getTv_link();
-
-                        String oldLink = link;
-                        String[] strings = oldLink.split("\\?");
-
                         Log.d("12novV2", "link เก่าที่โค้ดเจนให้ ==> " + link);
-                        Log.d("12novV2", "ส่วนหลังที่ได้ ==> " + strings[1]);
 
-                        String[] strings1 = strings[1].split("\\=");
-                        Log.d("12novV2", "id ==> " + strings1[1]);
+                        String[] strings = link.split("\\=");
 
-                        link = findAPI(Integer.parseInt(strings1[1]));
+                        try {
 
-//						ทดสอบนะจ้ะ
+                            YutConstant yutConstant = new YutConstant();
+                            FindUrlThread findUrlThread = new FindUrlThread(TvCategoryNewActivity.this);
+                            findUrlThread.execute(strings[1], yutConstant.getYutServerString());
+
+                            String jsonString = findUrlThread.get();
+                            Log.d("12novV2", "json ==> " + jsonString);
+
+                            JSONArray jsonArray = new JSONArray(jsonString);
+                            JSONObject jsonObject = jsonArray.getJSONObject(0);
+
+                            link = jsonObject.getString("link") + "?channel_id=" + strings[1];
+
+                            Log.d("12novV2", "link ใหม่ ==> " + link);
+
+                            checkAcees(dataStore.LoadSharedPreference(
+                                    DataStore.USER_ID, ""));
 
 
-                        Log.d("12novV2", "link ==> " + link);
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                        }
 
-                        checkAcees(dataStore.LoadSharedPreference(
-                                DataStore.USER_ID, ""));
+
                     } else {
                         intent = new Intent(TvCategoryNewActivity.this,
                                 LoginActivity.class);
@@ -227,7 +240,7 @@ public class TvCategoryNewActivity extends Activity {
         protected void onPostExecute(Void result) {
             super.onPostExecute(result);
 
-            Log.d("22decV2", "arrData ==> " + arrData.toString());
+            Log.d("22decV4", "arrData ==> " + arrData.toString());
 
             progressDialog.dismiss();
             showContent();
