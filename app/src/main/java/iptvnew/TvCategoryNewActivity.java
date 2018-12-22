@@ -69,7 +69,7 @@ public class TvCategoryNewActivity extends Activity {
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.iptv_activity_tv_category);
 
-
+        Log.d("22decV1", "TvCategoryNew Work");
 
         progressDialog = new ProgressDialog(this);
         dataStore = new DataStore(getBaseContext());

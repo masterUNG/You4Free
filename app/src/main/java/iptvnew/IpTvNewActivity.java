@@ -28,7 +28,7 @@ import helper.DataStore;
 public class IpTvNewActivity extends Activity {
 
     // widget
-    private Gallery gallery;
+    private Gallery gallery;    // Gallery เลือกช่อง
     private TextView txtUsername;
     private TextView txtLevel;
     private TextView txtExpire;
@@ -104,7 +104,7 @@ public class IpTvNewActivity extends Activity {
         widthImg = widthImg/4;
         heightImg = (int) (widthImg*1.2);
 
-        Log.d("screen", "screen"+widthImg+"/"+heightImg);
+        Log.d("22decV1", "screen"+widthImg+"/"+heightImg);
 
         gallery = (Gallery) findViewById(R.id.gallery_iptv);
         gallery.setFocusable(true);
@@ -121,6 +121,7 @@ public class IpTvNewActivity extends Activity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view,
                                     int position, long id) {
+                Log.d("22decV1", "IpTvNewActivity sent Intent");
                 Intent intent = new Intent(IpTvNewActivity.this,TvCategoryNewActivity.class);
                 intent.putExtra("id", arrDataTv.get(position).getTv_id());
                 startActivity(intent);
