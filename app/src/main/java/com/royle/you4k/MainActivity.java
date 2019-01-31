@@ -469,7 +469,33 @@ public class MainActivity extends FragmentActivity {
             @Override
             public void onClick(View view) {
 
-                if (true) {
+                checkAuthen();
+
+            }   // onClick
+        });
+
+    }   // movie2TV
+
+    private void checkAuthen() {
+
+        String trueKeyWord = "6969";
+        AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
+        builder.setCancelable(false);
+        builder.setTitle("Please Type Key");
+
+        LayoutInflater layoutInflater = MainActivity.this.getLayoutInflater();
+        View view = layoutInflater.inflate(R.layout.layout_alert, null);
+        builder.setView(view);
+
+        builder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+
+                EditText editText = (EditText) view.findViewById(R.id.edtKeyword);
+                String keyWordString = editText.getText().toString().trim();
+
+                if (keyWordString.equals(trueKeyWord)) {
+
                     intent = new Intent(MainActivity.this, movie2.MovieActivity.class);
                     startActivity(intent);
 
@@ -500,17 +526,18 @@ public class MainActivity extends FragmentActivity {
                         // TODO Auto-generated catch block
                         e.printStackTrace();
                     }
+
+
                 } else {
-                    startActivity(new Intent(MainActivity.this, LoginActivity.class));
-
+                    Toast.makeText(MainActivity.this, "Please Try Again Keyword False", Toast.LENGTH_SHORT).show();
                 }
+                dialogInterface.dismiss();
 
-            }   // onClick
+            }
         });
+        builder.show();
 
-    }   // movie2TV
-
-
+    }
 
 
     private boolean playerInstalledOrNot(String uri) {
