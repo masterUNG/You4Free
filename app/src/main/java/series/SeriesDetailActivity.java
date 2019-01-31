@@ -413,6 +413,7 @@ public class SeriesDetailActivity extends Activity {
 		protected Void doInBackground(Void... params) {
 			SeriesData seriesData = new SeriesData();
 			arrData = seriesData.getSeries(series_id);
+			Log.d("31JanV4", "arrData ==> " + arrData.toString());
 			return null;
 		}
 		@Override
@@ -431,6 +432,7 @@ public class SeriesDetailActivity extends Activity {
 										int position, long id) {
 					if (true) {
 						url_video = arrData.get(position).getseries_img();
+						Log.d("31JanV4", "url_video [" + position + "] ==> " + url_video);
 						checkAcees(dataStore.LoadSharedPreference(DataStore.USER_ID, ""));
 					} else {
 						Intent intent = new Intent(SeriesDetailActivity.this, RefillActivity.class);

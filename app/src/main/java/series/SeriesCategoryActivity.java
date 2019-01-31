@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.text.Html;
+import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
@@ -156,9 +157,11 @@ public class SeriesCategoryActivity extends Activity{
 
 			if (main_id != null) {
 				arrData = data.getCategorySeries(params[0]);
+				Log.d("31JanV3", "arrData ==> " + arrData.toString());
 			} else {
 				arrData = data.getSeasonSeries(params[0]);
 			}
+
 			return null;
 		}
 

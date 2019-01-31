@@ -31,6 +31,7 @@ import com.royle.you4k.Mxplayer;
 import com.royle.you4k.R;
 import com.royle.you4k.SearchSRActivity;
 
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.File;
@@ -43,6 +44,7 @@ import java.util.ArrayList;
 import helper.DataStore;
 import helper.PortalServices;
 import helper.UrlApp;
+import iptvnew.YutConstant;
 import meklib.MCrypt;
 import user.ErrorActivity;
 import user.RefillActivity;
@@ -413,6 +415,7 @@ public class SeriesDetailActivity extends Activity {
 		protected Void doInBackground(Void... params) {
 			SeriesData seriesData = new SeriesData();
 			arrData = seriesData.getSeries(series_id);
+			Log.d("31JanV4", "arrData From Series2 ==> " + arrData.toString());
 			return null;
 		}
 		@Override
@@ -431,6 +434,30 @@ public class SeriesDetailActivity extends Activity {
 										int position, long id) {
 					if (true) {
 						url_video = arrData.get(position).getseries_img();
+
+						Log.d("31JanV4", "url_video[" + position + "] ==> " + url_video);
+
+						try {
+
+							YutConstant yutConstant = new YutConstant();
+							String[] strings = url_video.split("=");
+
+							Log.d("31JanV4", "id ==> " + strings[1]);
+
+							FindUrlThread findUrlThread = new FindUrlThread(SeriesDetailActivity.this);
+							findUrlThread.execute(strings[1], yutConstant.getSeriesWhereId());
+							String result = findUrlThread.get();
+							Log.d("31JanV4", "result ==> " + result);
+
+							JSONArray jsonArray = new JSONArray(result);
+							JSONObject jsonObject = jsonArray.getJSONObject(0);
+
+							url_video = jsonObject.getString("link") + "?series_id=" + strings[1];
+
+						} catch (Exception e) {
+							e.printStackTrace();
+						}
+
 						checkAcees(dataStore.LoadSharedPreference(DataStore.USER_ID, ""));
 					} else {
 						Intent intent = new Intent(SeriesDetailActivity.this, RefillActivity.class);
