@@ -7,6 +7,7 @@
     android:background="@android:color/black"
     tools:context="com.royle.you4k.MainActivity" >
 
+    <!--Menu Top-->
     <LinearLayout
         android:id="@+id/linearLayout1"
         android:layout_width="match_parent"
@@ -104,6 +105,7 @@
         </LinearLayout>
     </LinearLayout>
 
+    <!--Content-->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -141,14 +143,16 @@
             android:orientation="vertical"
             android:padding="10dp" >
 
+            <!--Button Bar-->
             <LinearLayout
                 android:id="@+id/lnHeader"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
-                android:weightSum="5" >
+                android:weightSum="6" >
 
+                <!--TV Online-->
                 <ImageButton
                     android:id="@+id/imbTv_main"
                     android:layout_width="match_parent"
@@ -159,9 +163,10 @@
                     android:scaleType="centerInside"
                     android:src="@drawable/a" >
 
-
+                <!--Movie-->
                 </ImageButton>
 
+                <!--Movie-->
                 <ImageButton
                     android:id="@+id/imbMovie_main"
                     android:layout_width="match_parent"
@@ -172,6 +177,7 @@
                     android:scaleType="centerInside"
                     android:src="@drawable/b" />
 
+                <!--Series-->
                 <ImageButton
                     android:id="@+id/imbSeries_main"
                     android:layout_width="match_parent"
@@ -182,6 +188,7 @@
                     android:scaleType="centerInside"
                     android:src="@drawable/c" />
 
+                <!--Sport-->
                 <ImageButton
                     android:id="@+id/imbKaraoke_main"
                     android:layout_width="match_parent"
@@ -192,6 +199,7 @@
                     android:scaleType="centerInside"
                     android:src="@drawable/e" />
 
+                <!--Ebook-->
                 <ImageButton
                     android:id="@+id/imbEbook_main"
                     android:layout_width="match_parent"
@@ -201,6 +209,19 @@
                     android:background="@drawable/selector_item_w"
                     android:scaleType="centerInside"
                     android:src="@drawable/d" />
+
+                <!--Movie2-->
+                <ImageButton
+                    android:id="@+id/imbMovie2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/selector_item_w"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/d" />
+
+
             </LinearLayout>
 
             <LinearLayout

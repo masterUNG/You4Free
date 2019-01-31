@@ -145,7 +145,7 @@
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true"
-                android:weightSum="5" >
+                android:weightSum="6" >
 
                 <ImageButton
                     android:id="@+id/imbTv_main"
@@ -199,6 +199,19 @@
                     android:background="@drawable/selector_item_w"
                     android:scaleType="centerInside"
                     android:src="@drawable/d" />
+
+                <!--Movie2-->
+                <ImageButton
+                    android:id="@+id/imbMovie2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/selector_item_w"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/d" />
+
+
             </LinearLayout>
 
             <LinearLayout
