@@ -155,6 +155,9 @@ public class MovieDetailActivity extends Activity {
 			public void onClick(View v) {
 				if (true) {
 					url_video = link;
+
+					Log.d("31JanV5", "url_video ต้นฉบับ ==> " + url_video);
+
 					checkAcees(dataStore.LoadSharedPreference(DataStore.USER_ID, ""));
 				}else {
 					intent = new Intent(MovieDetailActivity.this,LoginActivity.class);

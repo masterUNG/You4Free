@@ -30,6 +30,7 @@ import com.royle.you4k.Mxplayer;
 import com.royle.you4k.R;
 import com.royle.you4k.SearchActivity;
 
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.File;
@@ -41,6 +42,7 @@ import java.net.URL;
 import helper.DataStore;
 import helper.PortalServices;
 import helper.UrlApp;
+import iptvnew.YutConstant;
 import meklib.MCrypt;
 import user.ErrorActivity;
 import user.LoginActivity;
@@ -155,6 +157,29 @@ public class MovieDetailActivity extends Activity {
 			public void onClick(View v) {
 				if (true) {
 					url_video = link;
+
+					Log.d("31JanV5", "url_video RAW ==> " + url_video);
+
+					String[] strings = url_video.split("=");
+
+					try {
+
+						YutConstant yutConstant = new YutConstant();
+						FindUrlThread findUrlThread = new FindUrlThread(MovieDetailActivity.this);
+						findUrlThread.execute(strings[1], yutConstant.getMovieWhereId());
+
+						JSONArray jsonArray = new JSONArray(findUrlThread.get());
+						JSONObject jsonObject = jsonArray.getJSONObject(0);
+
+						url_video = jsonObject.getString("link") + "?movie_id=" + strings[1];
+
+						Log.d("31JanV5", "url_video Last ==> " + url_video);
+
+					} catch (Exception e) {
+						e.printStackTrace();
+					}
+
+
 					checkAcees(dataStore.LoadSharedPreference(DataStore.USER_ID, ""));
 				}else {
 					intent = new Intent(MovieDetailActivity.this,LoginActivity.class);
