@@ -1,9 +1,8 @@
-package series;
+package series2;
 
 import android.util.Log;
 
 import org.json.JSONArray;
-import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
@@ -81,11 +80,11 @@ public class SeriesData {
 	}
 
 	public ArrayList<SeriesData> getMainSeries(){
-		String resultData = portalServices.makePortalCall(null, UrlApp.MAIN_Series, PortalServices.GET);
+		String resultData = portalServices.makePortalCall(null, UrlApp.MAIN_Series2, PortalServices.GET);
 		try {
 			String decrypted = new String(mcrypt.decrypt(resultData));
 
-			Log.d("31JanV1", "decry Series1 ==> " + decrypted);
+            Log.d("31JanV2", "decry Series2 ==> " + decrypted);
 
 			JSONObject jsonObject = new JSONObject(decrypted);
 			JSONArray jArrData = jsonObject.getJSONArray("data");
@@ -109,7 +108,7 @@ public class SeriesData {
 		
 	}
 	public ArrayList<SeriesData> getCategorySeries(String main_id){
-		String resultData = portalServices.makePortalCall(null, UrlApp.CATEGORY_Series+"?main_id="+main_id, PortalServices.GET);
+		String resultData = portalServices.makePortalCall(null, UrlApp.CATEGORY_Series2+"?main_id="+main_id, PortalServices.GET);
 		try {
 			String decrypted = new String(mcrypt.decrypt(resultData));
 			JSONObject jsonObject = new JSONObject(decrypted);
@@ -131,7 +130,7 @@ public class SeriesData {
 	}
 	
 	public ArrayList<SeriesData> getSeasonSeries(String main_id){
-		String resultData = portalServices.makePortalCall(null, UrlApp.SEASON_Series+"?id="+main_id, PortalServices.GET);
+		String resultData = portalServices.makePortalCall(null, UrlApp.SEASON_Series2+"?id="+main_id, PortalServices.GET);
 		try {
 			String decrypted = new String(mcrypt.decrypt(resultData));
 			JSONObject jsonObject = new JSONObject(decrypted);
@@ -153,7 +152,7 @@ public class SeriesData {
 	}
 	
 	public ArrayList<SeriesData> getSeries(String main_id){
-		String resultData = portalServices.makePortalCall(null, UrlApp.Series+"?id="+main_id, PortalServices.GET);
+		String resultData = portalServices.makePortalCall(null, UrlApp.Series2+"?id="+main_id, PortalServices.GET);
 		try {
 			String decrypted = new String(mcrypt.decrypt(resultData));
 			JSONObject jsonObject = new JSONObject(decrypted);

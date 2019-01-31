@@ -30,9 +30,17 @@ public class UrlApp {
     public static final String CATEGORY_Series = API + "series_sub_category";
     public static final String SEASON_Series = API + "series_season";
     public static final String Series = API + "series";
+
+    //series2
+    public static final String MAIN_Series2 = API2 + "series_main_category";
+    public static final String CATEGORY_Series2 = API2 + "series_sub_category";
+    public static final String SEASON_Series2 = API2 + "series_season";
+    public static final String Series2 = API2 + "series";
+
     //tv
     public static final String MAIN_TV = API + "iptv_main_category";
     public static final String CATEGORY_TV = API + "iptv_sub_category";
+
     public static final String MAIN_TV_NEW = API2 + "iptv_main_category";
     public static final String CATEGORY_TV_NEW = API2 + "iptv_sub_category";
     //search

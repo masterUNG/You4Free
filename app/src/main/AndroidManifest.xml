@@ -193,6 +193,19 @@
             android:label="@string/title_activity_movie_detail"
             android:screenOrientation="landscape" />
 
+        <activity
+            android:name="series2.SeriesActivity"
+            android:label="@string/title_activity_series"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="series2.SeriesCategoryActivity"
+            android:label="@string/title_activity_series"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="series2.SeriesDetailActivity"
+            android:label="@string/title_activity_series_detail"
+            android:screenOrientation="landscape" />
+
 
 
         <service

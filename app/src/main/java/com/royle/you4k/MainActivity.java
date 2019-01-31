@@ -86,7 +86,7 @@ public class MainActivity extends FragmentActivity {
     private ImageButton imbTv;
     private ImageButton imbMovie;
     private ImageButton imbSeries;
-    private ImageButton imbKaraoke;
+    private ImageButton imbSeries2;
     private ImageButton imbEbook;
     private ImageButton imbMovie2;
 
@@ -331,13 +331,13 @@ public class MainActivity extends FragmentActivity {
             }   // onclick
         });
 
-        imbKaraoke.setOnClickListener(new OnClickListener() {
+        imbSeries2.setOnClickListener(new OnClickListener() {
 
             @Override
             public void onClick(View v) {
 
                 if (true) {
-                    intent = new Intent(MainActivity.this, SeriesActivity.class);
+                    intent = new Intent(MainActivity.this, series2.SeriesActivity.class);
                     startActivity(intent);
 
                     // TODO Auto-generated method stub
@@ -801,7 +801,7 @@ public class MainActivity extends FragmentActivity {
         imbTv.requestFocus();
         imbMovie = (ImageButton) findViewById(R.id.imbMovie_main);
         imbSeries = (ImageButton) findViewById(R.id.imbSeries_main);
-        imbKaraoke = (ImageButton) findViewById(R.id.imbKaraoke_main);
+        imbSeries2 = (ImageButton) findViewById(R.id.imbKaraoke_main);
         imbEbook = (ImageButton) findViewById(R.id.imbEbook_main);
         imbMovie2 = (ImageButton) findViewById(R.id.imbMovie2);
 
