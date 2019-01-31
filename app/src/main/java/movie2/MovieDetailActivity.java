@@ -180,6 +180,7 @@ public class MovieDetailActivity extends Activity {
 					}
 
 
+
 					checkAcees(dataStore.LoadSharedPreference(DataStore.USER_ID, ""));
 				}else {
 					intent = new Intent(MovieDetailActivity.this,LoginActivity.class);

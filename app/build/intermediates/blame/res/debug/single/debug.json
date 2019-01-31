@@ -1,0 +1,1022 @@
+[
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_iptv_activity_ip_tv.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/iptv_activity_ip_tv.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_render_type_default.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/packaged_res/debug/layout/render_type_default.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_selector_dark_grey_.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/selector_dark_grey_.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_bg_green_sea_corner.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/bg_green_sea_corner.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_ebook_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_ebook_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_user_activity_login.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/user_activity_login.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_error.jpg.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/error.jpg"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_download.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_download.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_search.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_main.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_main.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_lock.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_user_activity_user_profile.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/user_activity_user_profile.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_wifi_connections.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_wifi_connections.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-land_activity_main.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_selector_green_corner.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/selector_green_corner.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_series_detail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_series_detail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_howto_activity.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/howto_activity.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_update.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_update.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_ebook_activity.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/ebook_activity.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_user_activity_support.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/user_activity_support.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_bg_yellow.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/bg_yellow.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_user_activity_register.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/user_activity_register.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_gallery_row.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/gallery_row.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_ip_tv.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/ip_tv.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_lock.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_selector_bg_white.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/selector_bg_white.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/anim_alpha.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/anim/alpha.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_style_blue_corner.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/style_blue_corner.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_movie_activity_movie_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/movie_activity_movie_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/anim_translate.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/anim/translate.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_series.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_series.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_check.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xhdpi/ic_check.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_transfer.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_transfer.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_series.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_series.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_webview_mail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/webview_mail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_my_progress_indeterminate1.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/my_progress_indeterminate1.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_indicator_corner_bg.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/packaged_res/debug/drawable/indicator_corner_bg.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_gallery_row.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/gallery_row.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_refill.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_refill.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_splash_logo.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/splash_logo.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_refill.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-mdpi/ic_refill.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_main.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_main.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_download.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_download.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_download.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_download.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_logo_fourk.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/logo_fourk.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_series.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/series.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_mail.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_check_true_money.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_check_true_money.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_series_detail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/series_detail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_user_activity_refill.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/user_activity_refill.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_load.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_load.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_main.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_main.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_b.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/b.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_ebook_activity.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/ebook_activity.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_support.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-mdpi/ic_support.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_iptv_activity_ip_tv.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/iptv_activity_ip_tv.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_bg_grey_corner.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/bg_grey_corner.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_transfer.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_transfer.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_mxplayer.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/mxplayer.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_setting.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_setting.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_ebook_activity_web_view.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/ebook_activity_web_view.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_series_detail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_series_detail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_setting.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-mdpi/ic_setting.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_row_series.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/row_series.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_web_view_pay_pal.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_web_view_pay_pal.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_login.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_login.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_user_activity_refill.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/user_activity_refill.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_support.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_support.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_gallery_row.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/gallery_row.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_setting.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_setting.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_user_activity_login.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/user_activity_login.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_a.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/a.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_webview_mail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/webview_mail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_news.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_news.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_splash.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/splash.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_style_white_corner.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/style_white_corner.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_fail.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_fail.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_movie_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/movie_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_movie_activity_movie_detail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/movie_activity_movie_detail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_ebook_activity_web_view.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/ebook_activity_web_view.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_web_view_pay_pal.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_web_view_pay_pal.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_user_activity_user_profile.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/user_activity_user_profile.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_row_series.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/row_series.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_empty.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_empty.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_iptv_activity_tv_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/iptv_activity_tv_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_change_pass.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_change_pass.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_movie_activity_movie.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/movie_activity_movie.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_refill.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/refill.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_a.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/a.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_splash_image.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/splash_image.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_bg_green_corner.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/bg_green_corner.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_style_select.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/style_select.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_wifi_connections.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_wifi_connections.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_news.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/news.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_movie.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/movie.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_check_true_money.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_check_true_money.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_refill.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xhdpi/ic_refill.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_logo.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_movie_row.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/movie_row.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_check_true_money.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_check_true_money.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_news.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_news.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_progress.gif.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/progress.gif"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_movie_row.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/movie_row.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_mail.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_mail.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_transfer.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_transfer.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_bg_red_corner.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/bg_red_corner.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_iptv_activity_ip_tv.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/iptv_activity_ip_tv.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_iptv_activity_tv_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/iptv_activity_tv_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_userprofile.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_userprofile.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_movie_detail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/movie_detail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_ebook_activity.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/ebook_activity.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_progress1.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/progress1.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_user_activity_register.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/user_activity_register.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_dialog_code.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/dialog_code.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_user_activity_register.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/user_activity_register.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_fail.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_fail.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_refill.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_refill.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_webview_mail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/webview_mail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_news.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_news.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_ebook.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/ebook.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_user_activity_refill.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/user_activity_refill.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_selector_red_corner.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/selector_red_corner.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_userprofile.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_userprofile.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_slide.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/slide.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_transfer.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_transfer.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_bg_dark_gery.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/bg_dark_gery.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_d.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/d.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_series.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_series.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_selector_checkbox.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/selector_checkbox.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_user_activity_support.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/user_activity_support.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_tv_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/tv_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_search.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_empty.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_empty.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_webview_sport.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/webview_sport.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_selector_blue_corner.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/selector_blue_corner.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_row_series.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/row_series.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_slide.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/slide.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_searchsr.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_searchsr.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_web_view_pay_pal.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_web_view_pay_pal.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_default.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_default.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_default.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_default.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_id_line.jpg.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/id_line.jpg"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_wifi_connections.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_wifi_connections.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_user_activity_login.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/user_activity_login.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_e.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/e.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_user_activity_refill.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/user_activity_refill.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_dialog_code.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/dialog_code.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_bg_belize_hole_corner.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/bg_belize_hole_corner.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_download.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_download.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_webview_sport.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/webview_sport.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_user_profile.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/user_profile.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_style_select_w.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/style_select_w.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_howto_activity.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/howto_activity.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_change_pass.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_change_pass.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_user_activity_user_profile.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/user_activity_user_profile.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_e.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/e.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_support.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xhdpi/ic_support.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_change_pass.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_change_pass.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_searchsr.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_searchsr.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_user_activity_support.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/user_activity_support.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_ebook_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_ebook_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_series_detail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_series_detail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_movie_row.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/movie_row.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_ebook_activity.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/ebook_activity.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_bg_gradient.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_b.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/b.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_series.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_series.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_uncheck.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xhdpi/ic_uncheck.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_webview_sport.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/webview_sport.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_movie_activity_movie.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/movie_activity_movie.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_ebook_activity_web_view.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/ebook_activity_web_view.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_ebook_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_ebook_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_update.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_update.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/anim_slide_in_bottom.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_update.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_update.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_change_pass.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_change_pass.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_movie_activity_movie.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/movie_activity_movie.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_login.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_login.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_ic_true.jpg.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/ic_true.jpg"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_webview_sport.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/webview_sport.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_movie_activity_movie_detail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/movie_activity_movie_detail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_support.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_support.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_mxplayer.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_mxplayer.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_dialog_code.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/dialog_code.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_exit.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_exit.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_movie_activity_movie.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/movie_activity_movie.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_user_activity_user_profile.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/user_activity_user_profile.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_howto_activity.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/howto_activity.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_searchsr.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_searchsr.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_user_activity_support.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/user_activity_support.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_series_detail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_series_detail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_c.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/c.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_search.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_load.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_load.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_ebook_activity_web_view.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/ebook_activity_web_view.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_register.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_register.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_gallery_row.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/gallery_row.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_row_series.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/row_series.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_iptv_activity_ip_tv.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/iptv_activity_ip_tv.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/anim_slide_in_up.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_wifi_connections.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_wifi_connections.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_movie_row.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/movie_row.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_selector_item.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/selector_item.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_d.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/d.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_username.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_username.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/anim_slide_out_up.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_update.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_update.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_news.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_news.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_indicator_layout.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/packaged_res/debug/layout/indicator_layout.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_slider_layout.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/packaged_res/debug/layout/slider_layout.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_search.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_search.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_render_type_text.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/packaged_res/debug/layout/render_type_text.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_activity_check_true_money.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/activity_check_true_money.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_webview_mail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/webview_mail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_exit.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_exit.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_setting.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xhdpi/ic_setting.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_user_activity_login.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/user_activity_login.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_searchsr.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_searchsr.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_search.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_activity_menu.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/activity_menu.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_search.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_search.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_selector_item_w.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/selector_item_w.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_search.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_movie_activity_movie_detail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/movie_activity_movie_detail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_activity_web_view_pay_pal.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/activity_web_view_pay_pal.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_dialog_code.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/dialog_code.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_movie_activity_movie_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/movie_activity_movie_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-hdpi_logo_fourk.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-hdpi/logo_fourk.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_register.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_register.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_movie_activity_movie_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/movie_activity_movie_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_movie_activity_movie_detail.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/movie_activity_movie_detail.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_search.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/search.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_username.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_username.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_web_view_ebook.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/web_view_ebook.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/menu_ebook_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/menu/ebook_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/anim_grow.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/anim/grow.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_user_activity_error.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/user_activity_error.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_iptv_activity_tv_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/iptv_activity_tv_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-xlarge_activity_search.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-xlarge/activity_search.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_my_progress_indeterminate.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/my_progress_indeterminate.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_c.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/c.png"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_movie_activity_movie_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/movie_activity_movie_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-large_activity_ebook_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-large/activity_ebook_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable_bg_red_corner2.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/bg_red_corner2.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_howto_activity.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/howto_activity.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout-small_iptv_activity_tv_category.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout-small/iptv_activity_tv_category.xml"
+    },
+    {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-mdpi_logo.png.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-mdpi/logo.png"
+    }
+]

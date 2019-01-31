@@ -1,0 +1,151 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15,19",
+                        "startColumns": "4,4,1",
+                        "startOffsets": "186,510,668",
+                        "endLines": "12,17,21",
+                        "endColumns": "12,12,9",
+                        "endOffsets": "472,665,781"
+                    },
+                    "to": {
+                        "startLines": "163,170,173",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7558,7849,8009",
+                        "endLines": "169,172,175",
+                        "endColumns": "12,12,9",
+                        "endOffsets": "7844,8004,8122"
+                    }
+                },
+                {
+                    "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "82,83",
+                        "startColumns": "4,4",
+                        "startOffsets": "3440,3498",
+                        "endColumns": "57,55",
+                        "endOffsets": "3493,3549"
+                    }
+                },
+                {
+                    "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,44,78,83,102,122",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,1714,3261,3484,4359,5304",
+                        "endLines": "43,77,81,101,121,140",
+                        "endColumns": "24,24,24,12,12,12",
+                        "endOffsets": "1709,3256,3435,4354,5299,6174"
+                    },
+                    "to": {
+                        "startLines": "2,44,78,105,124,144",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,1714,3261,4863,5738,6683",
+                        "endLines": "43,77,81,123,143,162",
+                        "endColumns": "24,24,24,12,12,12",
+                        "endOffsets": "1709,3256,3435,5733,6678,7553"
+                    }
+                },
+                {
+                    "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "23,5,3,22,4,20,17,19,7,9,10,11,14,6,13,15,16,8,12,18,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1325,152,56,1283,99,1192,970,1112,270,406,469,549,766,205,701,827,892,332,625,1033,1238",
+                        "endColumns": "39,52,42,41,52,45,62,79,61,62,79,75,60,64,64,64,77,73,75,78,44",
+                        "endOffsets": "1360,200,94,1320,147,1233,1028,1187,327,464,544,620,822,265,761,887,965,401,696,1107,1278"
+                    },
+                    "to": {
+                        "startLines": "84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3554,3594,3647,3690,3732,3785,3831,3894,3974,4036,4099,4179,4255,4316,4381,4446,4511,4589,4663,4739,4818",
+                        "endColumns": "39,52,42,41,52,45,62,79,61,62,79,75,60,64,64,64,77,73,75,78,44",
+                        "endOffsets": "3589,3642,3685,3727,3780,3826,3889,3969,4031,4094,4174,4250,4311,4376,4441,4506,4584,4658,4734,4813,4858"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "305",
+                        "endColumns": "57",
+                        "endOffsets": "358"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

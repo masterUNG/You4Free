@@ -1,0 +1,434 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:2:1-216:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:2:1-216:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:2:1-216:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:2:1-216:12
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:2:1-216:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:2:1-216:12
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:2:1-216:12
+	package
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-67
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:12:5-81
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:6:5-81
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.EXTRA_RETURN_RESULT
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:13:22-75
+uses-permission#android.intent.action.UNINSTALL_PACKAGE
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.intent.action.INSTALL_PACKAGE
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:15:22-74
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:16:22-85
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:18:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:19:22-72
+supports-screens
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:21:5-34:24
+application
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:36:5-214:19
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:44
+MERGED from [:librarySlider] /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/librarySlider/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-10:44
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:39:9-41
+	android:icon
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:38:9-38
+	android:allowBackup
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:37:9-35
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:40:9-40
+activity#com.royle.you4k.SplashScreen
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:41:9-51:20
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:44:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:43:13-45
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:45:13-60
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:42:13-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:49:27-74
+activity#com.royle.you4k.UpdateCheck
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:52:9-56:63
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:55:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:54:13-40
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:56:13-60
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:53:13-55
+activity#com.royle.you4k.MainActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:57:9-60:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:60:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:59:13-45
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:58:13-56
+activity#user.RefillActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:61:9-65:75
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:64:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:63:13-58
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:65:13-72
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:62:13-47
+activity#user.RegisterActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:66:9-69:75
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:68:13-50
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:69:13-72
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:67:13-49
+activity#user.LoginActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:70:9-73:75
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:72:13-50
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:73:13-72
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:71:13-46
+activity#user.ChangePassActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:74:9-77:75
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:76:13-50
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:77:13-72
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:75:13-51
+activity#iptv.IpTvActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:78:9-81:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:81:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:80:13-57
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:79:13-45
+activity#iptv.TvCategoryActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:82:9-85:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:85:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:84:13-63
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:83:13-51
+activity#iptvnew.IpTvNewActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:86:9-89:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:89:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:88:13-57
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:87:13-51
+activity#iptvnew.TvCategoryNewActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:90:9-93:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:93:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:92:13-63
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:91:13-57
+activity#movie.MovieActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:94:9-97:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:97:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:96:13-57
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:95:13-47
+activity#movie.MovieCategoryActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:98:9-101:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:101:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:100:13-66
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:99:13-55
+activity#movie.MovieDetailActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:102:9-105:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:105:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:104:13-64
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:103:13-53
+activity#user.UserProfileActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:106:9-109:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:109:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:108:13-64
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:107:13-52
+activity#com.royle.you4k.SearchActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:110:9-114:59
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:113:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:112:13-58
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:114:13-56
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:111:13-58
+activity#com.royle.you4k.NewsActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:115:9-118:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:118:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:117:13-56
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:116:13-56
+activity#series.SeriesActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:119:9-122:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:122:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:121:13-58
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:120:13-49
+activity#series.SeriesCategoryActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:123:9-126:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:126:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:125:13-58
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:124:13-57
+activity#series.SeriesDetailActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:127:9-130:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:130:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:129:13-65
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:128:13-55
+activity#ebook.EbookActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:131:9-134:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:134:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:133:13-57
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:132:13-47
+activity#ebook.WebViewEbookActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:135:9-138:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:138:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:137:13-66
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:136:13-54
+activity#ebook.EbookCategoryActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:139:9-142:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:142:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:141:13-66
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:140:13-55
+activity#user.MailActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:145:9-148:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:148:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:147:13-41
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:146:13-45
+activity#user.SupportActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:149:9-153:75
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:152:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:151:13-44
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:153:13-72
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:150:13-48
+activity#com.royle.you4k.SearchSRActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:154:9-158:59
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:157:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:156:13-37
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:158:13-56
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:155:13-60
+activity#user.CheckTrueMoneyActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:159:9-162:75
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:161:13-50
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:162:13-72
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:160:13-55
+activity#user.HowtoActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:163:9-166:75
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:165:13-50
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:166:13-72
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:164:13-46
+activity#com.royle.you4k.Mxplayer
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:167:9-170:75
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:169:13-50
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:170:13-72
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:168:13-52
+activity#com.royle.you4k.SportActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:172:9-175:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:175:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:174:13-42
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:173:13-57
+activity#com.royle.you4k.WebViewPayPalActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:176:9-74
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:176:19-71
+activity#user.ErrorActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:178:9-181:75
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:180:13-50
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:181:13-72
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:179:13-46
+activity#movie2.MovieActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:183:9-186:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:186:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:185:13-57
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:184:13-48
+activity#movie2.MovieCategoryActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:187:9-190:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:190:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:189:13-66
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:188:13-56
+activity#movie2.MovieDetailActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:191:9-194:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:194:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:193:13-64
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:192:13-54
+activity#series2.SeriesActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:196:9-199:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:199:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:198:13-58
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:197:13-50
+activity#series2.SeriesCategoryActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:200:9-203:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:203:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:202:13-58
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:201:13-58
+activity#series2.SeriesDetailActivity
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:204:9-207:53
+	android:screenOrientation
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:207:13-50
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:206:13-65
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:205:13-56
+service#meklib.KeepAlive
+ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:211:9-213:49
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:213:13-38
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:212:13-44
+uses-sdk
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+		ADDED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/AndroidManifest.xml:2:1-216:12 reason: com.daimajia.slider.library requested WRITE_EXTERNAL_STORAGE
