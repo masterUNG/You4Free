@@ -1,5 +1,7 @@
 package movie;
 
+import android.util.Log;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -141,6 +143,7 @@ public class MovieData {
 		String resultData = portalServices.makePortalCall(null, UrlApp.MAIN_MOVIE, PortalServices.GET);
 		try {
 			String decrypted = new String(mcrypt.decrypt(resultData));
+			Log.d("31JanV1", "decrypted ==> " + decrypted);
 			JSONObject jsonObject = new JSONObject(decrypted);
 			JSONArray jArrData = jsonObject.getJSONArray("data");
 			for (int i = 0; i < jArrData.length(); i++) {

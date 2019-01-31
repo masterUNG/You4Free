@@ -328,7 +328,7 @@ public class MainActivity extends FragmentActivity {
 
                 }
 
-            }
+            }   // onclick
         });
 
         imbKaraoke.setOnClickListener(new OnClickListener() {
@@ -336,32 +336,49 @@ public class MainActivity extends FragmentActivity {
             @Override
             public void onClick(View v) {
 
-                startActivity(new Intent(MainActivity.this, SportActivity.class));
+                if (true) {
+                    intent = new Intent(MainActivity.this, SeriesActivity.class);
+                    startActivity(intent);
+
+                    // TODO Auto-generated method stub
+                    try {
+                        if (playerInstalledOrNot("com.mxtech.videoplayer.pro")) {
+
+                            Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
+
+                        } else if (playerInstalledOrNot("com.mxtech.videoplayer.ad")) {
+
+                            Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
+
+                        } else if (playerInstalledOrNot("com.mxtech.videoplayer.gold")) {
+
+                            Toast.makeText(getApplicationContext(), "มี GOLDPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
+
+                        } else if (playerInstalledOrNot("com.android.gallery3d")) {
 
 
-            }
+                        } else {
+                            installgold atualizaApp = new installgold();
+                            atualizaApp.setContext(getApplicationContext());
+                            atualizaApp.execute("MXPlayer.apk");
+                            Toast.makeText(getApplicationContext(), "กรุณารอสักครู่ และกด  >> ติดตั้ง <<  ..........", Toast.LENGTH_SHORT).show();
+                            Intent intent = new Intent(MainActivity.this, Mxplayer.class);
+                            startActivity(intent);
+                        }
+                    } catch (Exception e) {
+                        // TODO Auto-generated catch block
+                        e.printStackTrace();
+                    }
 
-            // TODO Auto-generated method stub
-//                try {
-//                    if (playerInstalledOrNot("com.ais.mimo.AISOnAirTV")) {
-//
-//                        Toast.makeText(getApplicationContext(), "กรุณารอสักครู่...........", Toast.LENGTH_SHORT).show();
-//                        Intent ais = new Intent(Intent.ACTION_MAIN);
-//                        ais.setComponent(new ComponentName("com.ais.mimo.AISOnAirTV", "com.singtel.ais.Sports"));
-//                        ais.addCategory(Intent.CATEGORY_LAUNCHER);
-//                        startActivity(ais);
-//
-//                    } else {
-//                        installgold atualizaAppS = new installgold();
-//                        atualizaAppS.setContext(getApplicationContext());
-//                        atualizaAppS.execute("AISPLAYBOX.apk");
-//                        Toast.makeText(getApplicationContext(), "กรุณากด  >> ติดตั้ง <<  ...........", Toast.LENGTH_SHORT).show();
-//                    }
-//                } catch (Exception e) {
-//                    // TODO Auto-generated catch block
-//                    e.printStackTrace();
-//                }
-//            }
+                } else {
+                    startActivity(new Intent(MainActivity.this, LoginActivity.class));
+
+                }
+
+
+            }   // onClick
+
+
 
         });
 
@@ -453,7 +470,7 @@ public class MainActivity extends FragmentActivity {
             public void onClick(View view) {
 
                 if (true) {
-                    intent = new Intent(MainActivity.this, MovieActivity.class);
+                    intent = new Intent(MainActivity.this, movie2.MovieActivity.class);
                     startActivity(intent);
 
                     // TODO Auto-generated method stub

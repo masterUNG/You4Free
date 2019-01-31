@@ -18,7 +18,6 @@
     <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
-
     <supports-screens>
 
         android:resizeable=["true"| "false"]
@@ -33,7 +32,6 @@
 
 
     </supports-screens>
-
 
     <application
         android:allowBackup="true"
@@ -182,8 +180,24 @@
             android:screenOrientation="landscape"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
+        <activity
+            android:name="movie2.MovieActivity"
+            android:label="@string/title_activity_movie"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="movie2.MovieCategoryActivity"
+            android:label="@string/title_activity_movie_category"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="movie2.MovieDetailActivity"
+            android:label="@string/title_activity_movie_detail"
+            android:screenOrientation="landscape" />
+
+
+
         <service
             android:name="meklib.KeepAlive"
             android:label="KeepAlive"></service>
     </application>
+
 </manifest>

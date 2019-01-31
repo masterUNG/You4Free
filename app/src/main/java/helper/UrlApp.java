@@ -14,10 +14,17 @@ public class UrlApp {
     public static final String TRANSFER = "http://pataya.bear-tv.com/api/reqtransfer";
     //movie
     public static final String MAIN_MOVIE = API + "main_category";
+    public static final String MAIN_MOVIE2 = API2 + "main_category";
+
     public static final String CATEGORY_MOVIE = API + "category";
+    public static final String CATEGORY_MOVIE2 = API2 + "category";
+
     public static final String CHECK_EXPIRED = "http://pataya.bear-tv.com/api/check_expired/";
     public static final String CHECK_MONEY = "http://pataya.bear-tv.com/api/check_truemoney/";
+
     public static final String LAST_MOVIE = API + "getlastmovie";
+    public static final String LAST_MOVIE2 = API2 + "getlastmovie";
+
     //series
     public static final String MAIN_Series = API + "series_main_category";
     public static final String CATEGORY_Series = API + "series_sub_category";

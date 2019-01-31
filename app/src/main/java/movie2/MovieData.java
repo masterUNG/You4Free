@@ -1,5 +1,7 @@
 package movie2;
 
+import android.util.Log;
+
 import org.json.JSONArray;
 import org.json.JSONObject;
 
@@ -137,9 +139,14 @@ public class MovieData {
 	}
 
 	public ArrayList<MovieData> getMainMovie(){
-		String resultData = portalServices.makePortalCall(null, UrlApp.MAIN_MOVIE, PortalServices.GET);
+		String resultData = portalServices.makePortalCall(null, UrlApp.MAIN_MOVIE2, PortalServices.GET);
 		try {
 			String decrypted = new String(mcrypt.decrypt(resultData));
+
+			Log.d("31JanV2", "decrypted At movie2 ==> " + decrypted);
+
+//			decrypted = "{\"length\":1,\"total\":1,\"data\":[{\"id\":\"19\",\"main_category_name\":\"concert\",\"level_access\":\"3\",\"img\":\"http:\\/\\/2654k.com\\/private\\/src\\/Main\\/ThirdParty\\/UploadsX\\/l06p1p3zy74kkwk0s.png\",\"doofree_img\":\"oxffga0kon44088ggs.png\",\"colors\":\"FFFFFFFF\",\"status\":\"on\"}],\"paging\":{\"page\":1,\"limit\":10000}}";
+
 			JSONObject jsonObject = new JSONObject(decrypted);
 			JSONArray jArrData = jsonObject.getJSONArray("data");
 			for (int i = 0; i < jArrData.length(); i++) {
@@ -160,7 +167,7 @@ public class MovieData {
 		
 	}
 	public ArrayList<MovieData> getCategoryMovie(String main_id){
-		String resultData = portalServices.makePortalCall(null, UrlApp.CATEGORY_MOVIE+"?main_id="+main_id, PortalServices.GET);
+		String resultData = portalServices.makePortalCall(null, UrlApp.CATEGORY_MOVIE2+"?main_id="+main_id, PortalServices.GET);
 		try {
 			String decrypted = new String(mcrypt.decrypt(resultData));
 			JSONObject jsonObject = new JSONObject(decrypted);
@@ -183,7 +190,7 @@ public class MovieData {
 	}
 	
 	public ArrayList<MovieData> getListMovie(String id){
-		String resultData = portalServices.makePortalCall(null, UrlApp.CATEGORY_MOVIE+"?id="+id, PortalServices.GET);
+		String resultData = portalServices.makePortalCall(null, UrlApp.CATEGORY_MOVIE2+"?id="+id, PortalServices.GET);
 		try {
 			String decrypted = new String(mcrypt.decrypt(resultData));
 			JSONObject jsonObject = new JSONObject(decrypted);
@@ -209,7 +216,7 @@ public class MovieData {
 	}
 	
 	public ArrayList<MovieData> getLastMovie(){
-		String resultData = portalServices.makePortalCall(null, UrlApp.LAST_MOVIE, PortalServices.GET);
+		String resultData = portalServices.makePortalCall(null, UrlApp.LAST_MOVIE2, PortalServices.GET);
 		try {
 			String decrypted = new String(mcrypt.decrypt(resultData));
 			JSONArray jsonArray = new JSONArray(decrypted);
