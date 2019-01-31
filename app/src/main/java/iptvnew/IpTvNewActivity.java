@@ -66,15 +66,6 @@ public class IpTvNewActivity extends Activity {
         progressDialog = new ProgressDialog(this);
         new DonwloadIpTvTask().execute();
 
-//		btnSearch.setOnClickListener(new OnClickListener() {
-//
-//			@Override
-//			public void onClick(View v) {
-//				Intent intent = new Intent(IpTvActivity.this,SearchActivity.class);
-//				startActivity(intent);
-//			}
-//		});
-
 
     }
     @Override
