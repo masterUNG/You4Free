@@ -88,6 +88,7 @@ public class MainActivity extends FragmentActivity {
     private ImageButton imbSeries;
     private ImageButton imbKaraoke;
     private ImageButton imbEbook;
+    private ImageButton imbMovie2;
 
     private ImageButton imgUpdate1; // นี่คือ ImageBotton ที่ดูหนังเรื่องแรก
     private ImageButton imgUpdate2;
@@ -126,6 +127,8 @@ public class MainActivity extends FragmentActivity {
 //        New TV
         newTV();
 
+//        Create Movie2
+        movie2TV();
 
         //progressDialog = new ProgressDialog(this);
         portalServices = new PortalServices();
@@ -401,6 +404,7 @@ public class MainActivity extends FragmentActivity {
     }
 
     private void newTV() {
+
         imbEbook.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -439,7 +443,53 @@ public class MainActivity extends FragmentActivity {
 
             }   // onClick
         });
-    }
+    }   // New TV
+
+
+    private void movie2TV() {
+
+        imbMovie2.setOnClickListener(new OnClickListener() {
+            @Override
+            public void onClick(View view) {
+
+                intent = new Intent(MainActivity.this, IpTvNewActivity.class);
+                intent.putExtra("id", "2");
+                startActivity(intent);
+
+                // TODO Auto-generated method stub
+                try {
+                    if (playerInstalledOrNot("com.mxtech.videoplayer.pro")) {
+
+                        Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
+
+                    } else if (playerInstalledOrNot("com.mxtech.videoplayer.ad")) {
+
+                        Toast.makeText(getApplicationContext(), "มี MXPLAYER ในระบบเรียบร้อยแล้ว", Toast.LENGTH_SHORT).show();
+
+                    } else if (playerInstalledOrNot("com.mxtech.videoplayer.gold")) {
+
+                    } else if (playerInstalledOrNot("com.android.gallery3d")) {
+
+
+                    } else {
+                        installgold atualizaApp = new installgold();
+                        atualizaApp.setContext(getApplicationContext());
+                        atualizaApp.execute("MXPlayer.apk");
+                        Toast.makeText(getApplicationContext(), "กรุณารอสักครู่ และกด  >> ติดตั้ง <<  ..........", Toast.LENGTH_SHORT).show();
+                        Intent intent = new Intent(MainActivity.this, Mxplayer.class);
+                        startActivity(intent);
+                    }
+                } catch (Exception e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
+
+            }   // onClick
+        });
+
+    }   // movie2TV
+
+
 
 
     private boolean playerInstalledOrNot(String uri) {
@@ -732,6 +782,7 @@ public class MainActivity extends FragmentActivity {
         imbSeries = (ImageButton) findViewById(R.id.imbSeries_main);
         imbKaraoke = (ImageButton) findViewById(R.id.imbKaraoke_main);
         imbEbook = (ImageButton) findViewById(R.id.imbEbook_main);
+        imbMovie2 = (ImageButton) findViewById(R.id.imbMovie2);
 
         imgUpdate1 = (ImageButton) findViewById(R.id.imgUpdate1_main);
         imgUpdate2 = (ImageButton) findViewById(R.id.imgUpdate2_main);
