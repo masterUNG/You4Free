@@ -156,6 +156,7 @@ id default_center_top_right_indicator
 id description_layout
 id editSearch
 id edtCode
+id edtKeyword
 id edtMoney_transfer
 id edtNewPass
 id edtNewPassAgain
@@ -303,6 +304,7 @@ layout howto_activity
 layout indicator_layout
 layout iptv_activity_ip_tv
 layout iptv_activity_tv_category
+layout layout_alert
 layout movie_activity_movie
 layout movie_activity_movie_category
 layout movie_activity_movie_detail

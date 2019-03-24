@@ -316,6 +316,10 @@
         "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable/style_white_corner.xml"
     },
     {
+        "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/layout_layout_alert.xml.flat",
+        "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/layout/layout_alert.xml"
+    },
+    {
         "merged": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_fail.png.flat",
         "source": "/Users/masterung/MyWorkSpace/ConsultProject/you4kFree_9aug171/app/src/main/res/drawable-xxhdpi/ic_fail.png"
     },
